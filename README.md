@@ -1,13 +1,24 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23D18B&background=00000000&center=true&vCenter=true&width=435&lines=Hey+👋+What's+up?;สวัสดีครับ+ชาว+Dev+🇹🇭;안녕하세요+👋+반갑습니다+🇰🇷;こんにちは+👋+元気ですか？+🇯🇵" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23D18B&background=00000000&center=true&vCenter=true&width=435&lines=สวัสดีครับ+👋;Hello+World+🌏;안녕하세요+👋;こんにちは+👋" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <h3>👨‍💻 Data Science Student | 🤖 AI Enthusiast | 📈 Algo Trader</h3>
+  <h3>I'm Phruk From IT KMITL 🏫</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23D18B&background=00000000&center=true&vCenter=true&width=435&lines=I'm+a+Data+Scientist+👨‍💻;I'm+a+Data+Engineer+⚙️;I'm+a+Data+Analyst+📊;I'm+a+Full+Stack+Developer+🌐" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
@@ -16,8 +27,6 @@
   <samp>
     Creating bugs since 2021... 🐛<br>
     Currently learning <b>Data Engineering & AI Agents</b> 📚<br>
-    Goals: <b>Build the smartest Trading Bot 🚀</b><br>
-    Fun fact: <i>I dream in Python code 🐍</i>
   </samp>
 </div>
 
@@ -39,7 +48,7 @@
 
 <div align="center">
   <a href="https://github.com/Whiterose48">
-    <img src="https://github-readme-stats.vercel.app/api?username=Whiterose48&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Whiterose48&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
   </a>
   <a href="https://github.com/Whiterose48">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Whiterose48&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=6" height="160" alt="languages graph" />
