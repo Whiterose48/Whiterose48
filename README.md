@@ -37,22 +37,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,r,js,html,css" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,numpy,pandas,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=docker,aws,git,mysql,mongodb,vscode,svelte" />
-</div>
-
-<br/>
-
-<h3 align="center">📊 My GitHub Stats</h3>
-
-<div align="center">
-  <a href="https://github.com/Whiterose48">
-    <img src="https://github-readme-stats.vercel.app/api?username=Whiterose48&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
-  </a>
-  <a href="https://github.com/Whiterose48">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Whiterose48&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=6" height="160" alt="languages graph" />
-  </a>
 </div>
 
 <br/>
@@ -68,10 +55,10 @@
 
 <div align="center">
   <br>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:phacharaphruk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile-url/">
+  <a href="https://www.linkedin.com/in/pp-h-k-pornanothai-913a62393/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
