@@ -17,7 +17,7 @@
 <div align="center">
   <h3>I'm Phruk From IT KMITL 🏫</h3>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23D18B&background=00000000&center=true&vCenter=true&width=435&lines=I'm+a+Data+Scientist+👨‍💻;I'm+a+Data+Engineer+⚙️;I'm+a+Data+Analyst+📊;I'm+a+Full+Stack+Developer+🌐;I'm+a+AI+Scientist+🧑‍🔬;I'm+a+AI+Engineer+👷‍♂️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23D18B&background=00000000&center=true&vCenter=true&width=435&lines=I'm+a+Data+Scientist+👨‍💻;I'm+a+Data+Engineer+⚙️;I'm+a+Data+Analyst+📊;I'm+a+Full+Stack+Developer+🌐;I'm+a+AI+Scientist+🧑‍🔬;I'm+a+AI+Engineer+👷‍♂️;I'm+a+Full+Stack+Data+Scientist+👨‍🔬" alt="Typing SVG" />
   </a>
 </div>
 
